@@ -1,0 +1,28 @@
+----------------------------------------------
+ImageWM_Benchmark log file
+----------------------------------------------
+
+
+
+----------------------------------------------
+Original Image Name:
+
+Embeding Image Name:C:\Users\liwei\Desktop\LSB\LSB_program\lsb_watermarked.bmp
+----------------------------------------------
+
+Rotation Attack Parameter:1202590843
+
+Rotation Attacked Image:C:\Users\liwei\Desktop\LSB\LSB_program\lsb_watermarked_ROT_0.01.bmp
+
+Rotation Attack Parameter:1202590843
+
+Rotation Attacked Image:C:\Users\liwei\Desktop\LSB\LSB_program\lsb_watermarked_ROT_0.02.bmp
+
+Rotation Attack Parameter:-1717986918
+
+Rotation Attacked Image:C:\Users\liwei\Desktop\LSB\LSB_program\lsb_watermarked_ROT_0.05.bmp
+
+
+Rotation Attack Parameter:-343597384
+
+Rotation Attacked Image:C:\Users\liwei\Desktop\LSB\LSB_program\lsb_watermarked_ROT_0.03.bmp

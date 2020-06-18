@@ -1,0 +1,29 @@
+----------------------------------------------
+ImageWM_Benchmark log file
+----------------------------------------------
+
+
+
+----------------------------------------------
+Original Image Name:
+
+Embeding Image Name:C:\Users\liwei\Desktop\LSB\LSB_program\lsb_watermarked.bmp
+----------------------------------------------
+
+JPEG Attack Parameter:90
+
+JPEG Attacked Image:C:\Users\liwei\Desktop\LSB\LSB_program\lsb_watermarked_JPEG_90.bmp
+
+JPEG Attack Parameter:70
+
+JPEG Attacked Image:C:\Users\liwei\Desktop\LSB\LSB_program\lsb_watermarked_JPEG_70.bmp
+
+JPEG Attack Parameter:80
+
+JPEG Attacked Image:C:\Users\liwei\Desktop\LSB\LSB_program\lsb_watermarked_JPEG_80.bmp
+
+
+JPEG Attack Parameter:40
+
+JPEG Attacked Image:C:\Users\liwei\Desktop\LSB\LSB_program\lsb_watermarked_JPEG_40.bmp
+

@@ -1,0 +1,27 @@
+----------------------------------------------
+ImageWM_Benchmark log file
+----------------------------------------------
+
+
+
+----------------------------------------------
+Original Image Name:
+
+Embeding Image Name:C:\Users\liwei\Desktop\LSB\LSB_program\lsb_watermarked.bmp
+----------------------------------------------
+
+AddNoise Attack Parameter:-1717986918
+
+AddNoise Attacked Image:C:\Users\liwei\Desktop\LSB\LSB_program\lsb_watermarked_NOISE_0.05.bmp
+
+AddNoise Attack Parameter:-1717986918
+
+AddNoise Attacked Image:C:\Users\liwei\Desktop\LSB\LSB_program\lsb_watermarked_NOISE_0.1.bmp
+
+AddNoise Attack Parameter:1202590843
+
+AddNoise Attacked Image:C:\Users\liwei\Desktop\LSB\LSB_program\lsb_watermarked_NOISE_0.01.bmp
+
+AddNoise Attack Parameter:-343597384
+
+AddNoise Attacked Image:C:\Users\liwei\Desktop\LSB\LSB_program\lsb_watermarked_NOISE_0.03.bmp

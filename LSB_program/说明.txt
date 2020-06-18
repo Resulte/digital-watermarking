@@ -1,0 +1,10 @@
+说明：
+
+
+1、LSB_embed.m文件是水印嵌入过程，包括PSNR计算
+   
+   _lena.jpg是原始图像 cuc.jpg是水印图像 lsb_watermarked.bmp是水    印嵌入后图像
+
+2、LSB_extract.m文件是水印提取过程，包括误比特率计算
+
+  _test picture是受攻击后的含水印图像
